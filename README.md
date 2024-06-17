@@ -1,0 +1,6 @@
+- Nino Desiderio
+- sound / interaction designer 
+- c++ - c# - java
+- pure data - processing - unreal engine - unity
+- kidhakku@gmail.com
+- i still suck at programming 
