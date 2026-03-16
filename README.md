@@ -2,5 +2,5 @@
 - sound / interaction designer 
 - c++ - c# - java
 - pure data - processing - unreal engine - unity
-- kidhakku@gmail.com
+- ninodesiderio@proton.me
 - i still suck at programming 
